@@ -1,0 +1,2 @@
+# Pythonminiproject
+some basic project
